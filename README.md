@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7ef14362-4d64-4e6d-9a20-126b965ed900" height="40" alt="js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="js logo"/>
 </div>
 
 ###
